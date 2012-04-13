@@ -1,0 +1,7 @@
+This is a simple script to check if your server is listed on blacklists around the world
+
+This simple plugin was coded in python and here, in this repository you get a list with many rbls 
+to use in your nagios. 
+
+This is my first script. If you had some problems, put your bug request here, on GitHub
+
